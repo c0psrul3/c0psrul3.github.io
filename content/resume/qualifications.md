@@ -8,9 +8,9 @@ draft: false
 
 + Created dev and test environments off different applications by provisioning k8s clusters on AWS using Jenkins, Terraform, Ansible, and Docker.
 
-+ In depth knowledge of AWS cloud infrastructure, including EKS, and some exposure to Google Cloud.
++ One of my passions is metrics, monitoring, and security:  I extensively use Prometheus, Elasticsearch, Grafana, and other tracing tools for custom platform autoscaling, troubleshooting, service level objectives, and auditing.
 
-+ One of my passions is metrics, monitoring, and security.  Leveraging Prometheus and Grafana, and Elasticsearch for security auditing and performance analysis or the basis of platform autoscaling.
++ I have in depth knowledge of AWS cloud infrastructure, including EKS, and some exposure to Google Cloud.
 
 + Implemented Jenkins CI/CD concepts, jobs, builds, pipelines, triggering, testing, distributed, builds, artifacts, and PaaS model for engineering teams using Terraform with Infrastructure-as-code.
 
@@ -18,9 +18,9 @@ draft: false
 
 + I prefer internally managed services (eg. Gitlab) over cloud-provided for security, privacy, and customization/control.
 
-+ CD best practices like distributed builds, containerization, traceability, high availability, and auto repository builds
++ CD best practices like distributed builds, containerization, traceability, high availability, and auto repository builds.
 
-+ Knows: Terraform, Helm, Ansible, Python, Bash, PostgreSQL, MongoDB, YAML
++ Knows: Terraform, Helm, Ansible, Python, Bash, PostgreSQL, MongoDB, YAML.
 
 + Prefers: VIM with spaces (not tabs) and Zsh.
 
