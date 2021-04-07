@@ -20,11 +20,11 @@ draft: false
 
 + CD best practices like distributed builds, containerization, traceability, high availability, and auto repository builds.
 
-+ Knows: Terraform, Helm, Ansible, Python, Bash, PostgreSQL, MongoDB, YAML.
++ _Knows:_ Terraform, Helm, Ansible, Python, Bash, PostgreSQL, MongoDB, YAML.
 
-+ Prefers: VIM with spaces (not tabs) and Zsh.
++ _Prefers:_ VIM with spaces (not tabs) and Zsh.
 
-+ Capable: Golang, PHP, JAVA, Jenkins, VPN networking, Routing and Switching, and VPN administration.
++ _Capable:_ Golang, PHP, JAVA, Jenkins, VPN networking, Routing and Switching, and VPN administration.
 
 + Outside work I like to spend my time building Keyboards, Quadcopters, IoT hardware or sensors, Wireless (mesh networking), and most things involving ARM processors.
 
