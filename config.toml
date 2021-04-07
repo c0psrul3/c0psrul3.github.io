@@ -1,3 +1,31 @@
 baseURL = "https://c0psrul3.github.io/"
 languageCode = "en-us"
-title = "Mike Nichols - DevOps, Kubernetes, Metrics and Monitoring"
+title = "Mike Nichols"
+theme = "hyde"
+
+[params]
+    description = "DevOps, Kubernetes, Metrics and Performance"
+    themeColor = "theme-base-09"
+    layoutReverse = false
+    #disqusShortname = "c0psrul3"
+    #googleAnalytics = "Your tracking code"
+
+      #{Name = "Avatar", URL = "https://en.gravatar.com/mnichols926500123#photo-1"},
+
+[Menus]
+    main = [
+        {Name = "Keybase", URL = "https://keybase.io/c0psrul3"},
+        #{Name = "Keybase QRcode", URL = "https://en.gravatar.com/mnichols926500123#photo-2"},
+        #{Name = "Gravatar", URL = "https://en.gravatar.com/mnichols926500123"},
+        #{Name = "Github", URL = "https://github.com/c0psrul3/"},
+        {Name = "Email", URL = "mailto:mike@mikenichols.name"},
+        #{Name = "Duo Video Call", URL = "0xcf42a64d@gmail.com"},
+        #{Name = "Duo phone", URL = "https://duo.google.com/(934) 200-8106"},
+        #{Name = "Google Meet", URL = "https://meet.google.com/kip-zcfh-imh"},
+        #{Name = "Zoom Meeting", URL = "https://us04web.zoom.us/j/73221588451?pwd=U1ZpZ1l6TFNuVXNXNEpXaTdJb0ZJdz09"},
+        #{Name = "Zoom", URL = "https://us04web.zoom.us/j/2451911589"},
+        {Name = "LinkedIn", URL = "https://www.linkedin.com/in/0xcf42a64d/"}
+    ]
+
+
+# vim: set ft=toml.config  ts=4 sts=0 sw=4 et nofen :
